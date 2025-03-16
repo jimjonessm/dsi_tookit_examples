@@ -54,7 +54,7 @@ Feel free to open an issue or submit a pull request if you would like to contrib
 This package is licensed under a proprietary license. For commercial use or permissions, contact: **barrosos@ufsj.edu.br**
 
 ## Cite as
-Barroso, M. F. S, Mendes, E. M. A. M. and Marciano, J. J. S. (2025). Dynamic Systems Identification (Polynomial Models) ([PyPI Project](https://pypi.org/project/dsi-toolkit/)), pypi.org. Retrieved March 16, 2025.
+Barroso, M. F. S, Mendes, E. M. A. M. and Marciano, J. J. S. (2025). Dynamic Systems Identification (Polynomial Models),https://pypi.org/project/dsi-toolkit/, pypi.org. Retrieved March 16, 2025.
 
 ## Contact
 For questions or support, please contact:
