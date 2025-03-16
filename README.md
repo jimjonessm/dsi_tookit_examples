@@ -12,7 +12,7 @@ pip install dsi-toolkit
 ```
 
 ### **Using Conda**
-If using Conda, install it via pip inside a Conda environment:
+If using Conda, install it via pip inside a Conda environment using the command:
 ```bash
 conda init
 conda activate root
@@ -22,8 +22,8 @@ pip install dsi-toolkit
 ## Usage
 
 See the following examples:
-- [Example ELS](https://github.com/jimjonessm/examples/exempleELS.py)
-- [Example RELS](https://github.com/jimjonessm/examples/exempleRELS.py)
+- [Example ELS](https://github.com/jimjonessm/dsi_toolkit_examples/blob/main/examples/exempleELS.py)
+- [Example RELS](https://github.com/jimjonessm/dsi_toolkit_examples/blob/main/examples/exempleRELS.py)
 
 ## Functions
 ### **Main Functions**
