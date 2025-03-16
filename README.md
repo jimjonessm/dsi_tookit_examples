@@ -21,30 +21,7 @@ pip install dsi-toolkit
 
 ## Usage
 
-### **Importing the Toolkit**
-```python
-from dsi_toolkit import (
-    generateCandidateTerms, getInfo, detectStructure,
-    buildRegressorMatrix, rmse, delay,
-    combinationWithRepetition, removeClusters, validateModel,
-    correlationFunction, correlationCoefficient, buildStaticResponse,
-    groupcoef, buildMapping, estimateParametersELS,
-    estimateParametersRELS, displayModel, displayStaticModel,
-    checkSubarrayForGNLY
-)
-```
-
-### **Example: Generating Candidate Terms**
-```python
-terms = generateCandidateTerms(data, order=3)
-print(terms)
-```
-
-### **Example: Estimating Parameters**
-```python
-parameters = estimateParametersELS(regressor_matrix, output_data)
-print(parameters)
-```
+See the examples.
 
 ## Functions
 ### **Main Functions**
@@ -73,6 +50,9 @@ Feel free to open an issue or submit a pull request if you would like to contrib
 
 ## License
 This package is licensed under a proprietary license. For commercial use or permissions, contact: **barrosos@ufsj.edu.br**
+
+## Cite as
+Barroso, M. F. S, Mendes, E. M. A. M. and Marciano, J. J. S. (2025). Dynamic Systems Identification (Polynomial Models) (https://pypi.org/project/dsi-toolkit/), pypi.org. Retrieved March 16, 2025.
 
 ## Contact
 For questions or support, please contact:
