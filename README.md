@@ -22,8 +22,8 @@ pip install dsi-toolkit
 ## Usage
 
 See the following examples:
-- [Example ELS](https://github.com/your-repo/examples/exempleELS.py)
-- [Example RELS](https://github.com/your-repo/examples/exempleRELS.py)
+- [Example ELS](https://github.com/jimjonessm/examples/exempleELS.py)
+- [Example RELS](https://github.com/jimjonessm/examples/exempleRELS.py)
 
 ## Functions
 ### **Main Functions**
