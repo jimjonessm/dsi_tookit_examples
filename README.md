@@ -22,6 +22,7 @@ pip install dsi-toolkit
 ## Usage
 
 See the following examples:
+- [Converter dataset](https://github.com/jimjonessm/dsi_toolkit_examples/blob/main/examples/converter_dataset.mat)
 - [Example ELS](https://github.com/jimjonessm/dsi_toolkit_examples/blob/main/examples/exempleELS.py)
 - [Example RELS](https://github.com/jimjonessm/dsi_toolkit_examples/blob/main/examples/exempleRELS.py)
 
